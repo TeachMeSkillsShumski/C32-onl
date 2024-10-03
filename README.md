@@ -5,3 +5,4 @@ Java Core
 https://lms.teachmeskills.com/courses/949/39342/lessonDescription
 
 Тут будет конфликт! при мерже
+НОВЫЕ ДАННЫЕ!
