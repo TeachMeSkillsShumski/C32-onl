@@ -3,3 +3,5 @@ Java Core
 
 Этот курс продназначен для java EE разрабодчиков
 https://lms.teachmeskills.com/courses/949/39342/lessonDescription
+
+Эти изменения не попадутв гит!!! 
